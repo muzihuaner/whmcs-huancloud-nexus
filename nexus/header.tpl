@@ -82,11 +82,7 @@
         <div class="navbar navbar-light">
             <div class="container mt-2 mb-2">
                 <a class="navbar-brand" href="{$WEB_ROOT}/index.php">
-                    {if $assetLogoPath}
-                        <img src="{$assetLogoPath}" alt="{$companyname}" class="logo-img">
-                    {else}
-                        {$companyname}
-                    {/if}
+                        <img src="https://cdn.jsdmirror.cn/gh/HuanCloud/LOGO@main/LOGO.svg" alt="{$companyname}" class="logo-img">
                 </a>
 
                 <form method="post" action="{routePath('knowledgebase-search')}" class="form-inline ml-auto d-none d-xl-block mr-2">
