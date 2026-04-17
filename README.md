@@ -1,4 +1,4 @@
-# 欢云 WHCMS NEXUS模板
+# 欢云 WHMCS NEXUS模板
 
 修改:
 1.修复中文国旗
