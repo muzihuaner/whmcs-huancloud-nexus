@@ -3,7 +3,9 @@
 <head>
     <meta charset="{$charset}" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>{if $kbarticle.title}{$kbarticle.title} - {/if}{$pagetitle} - {$companyname}</title>
+     <title>欢云 HUANCLOUD-智在云端，欢享无限</title>
+    <meta name="keywords" content="便宜服务器,云服务器,服务器,云计算,欢云,国外服务器,香港服务器,HUANCLOUD,VPS,Server" />
+    <meta name="description" content="我们致力于提供高性价比的服务器。">
     {include file="$template/includes/head.tpl"}
     {$headoutput}
     
